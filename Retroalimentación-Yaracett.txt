@@ -1,0 +1,7 @@
+No se alcanzó a finalizar los ejercicios.
+Recomendaciones:
+*Trabajar cierre de parentesis y orientacion al detalle en escritura de variables
+*Practicar funciones en JS
+
+Extensión para VSC, para probar en consola:
+Code Runner   (.run)

@@ -1,0 +1,7 @@
+1. lo hice bien la parte uno
+2. factorizado codigo, se uso funcion flecha para trabajar en una linea
+
+1.en la segunda parte se complico y se tuvo que recurrir a documentacion, 
+por lo que se recomienda practicar más la manipulación del dom
+2. para el bonus se recomienda que por la falta de tiempo practicar en la manipulacion 
+en el dom y optimizar tiempos
